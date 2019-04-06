@@ -21,6 +21,7 @@ buscar_arts(dados)
 ```
 
 # Execução
+> Pré-Requisito: Ter o GIT e o Python 3 instalados
 ```sh
 $ git clone https://github.com/scaramuzza/news-theguardian.git
 $ cd news-theguardian
