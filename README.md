@@ -50,4 +50,3 @@ $ git push origin master
 # Licença
 
 - Software Livre (Free Software)
-- kkkkk
