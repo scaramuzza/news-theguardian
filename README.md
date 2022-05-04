@@ -49,4 +49,4 @@ $ git push origin master
 
 # Licença
 
-- Software Livre (Free Software) hhhhh
+- Software Livre (Free Software)
